@@ -20,36 +20,44 @@ self.__precacheManifest = [
     "url": "/static/js/2.e9981c7e.chunk.js"
   },
   {
-    "revision": "520991c10a2885ce2332337e95c06f43",
-    "url": "/static/media/Cadiz-Bold.520991c1.woff"
-  },
-  {
-    "revision": "4bc3aefdc5adb8503482a6b7bf642f42",
-    "url": "/static/media/Cadiz-Bold.4bc3aefd.svg"
-  },
-  {
-    "revision": "6d6948501262398e4f06b63f47123c41",
-    "url": "/static/media/Cadiz-Bold.6d694850.ttf"
+    "revision": "7a845c53a55bbcd6f81a7fbe59839892",
+    "url": "/static/media/Cadiz-Bold.7a845c53.eot"
   },
   {
     "revision": "5cc200bd80c66a4b84a51d79426328c5",
     "url": "/static/media/Cadiz-Bold.5cc200bd.woff2"
   },
   {
-    "revision": "0f7f784bd6de369c3a40ef5d6bc0d46b",
-    "url": "/static/media/Cadiz-Regular.0f7f784b.eot"
+    "revision": "520991c10a2885ce2332337e95c06f43",
+    "url": "/static/media/Cadiz-Bold.520991c1.woff"
   },
   {
-    "revision": "3bafa5c84026fb73e3bd200a4f52d1e2",
-    "url": "/static/media/Cadiz-Regular.3bafa5c8.woff"
+    "revision": "6d6948501262398e4f06b63f47123c41",
+    "url": "/static/media/Cadiz-Bold.6d694850.ttf"
+  },
+  {
+    "revision": "4bc3aefdc5adb8503482a6b7bf642f42",
+    "url": "/static/media/Cadiz-Bold.4bc3aefd.svg"
+  },
+  {
+    "revision": "0f7f784bd6de369c3a40ef5d6bc0d46b",
+    "url": "/static/media/Cadiz-Regular.0f7f784b.eot"
   },
   {
     "revision": "f4f8e82b0d285b9de16db8906e90c183",
     "url": "/static/media/Cadiz-Regular.f4f8e82b.woff2"
   },
   {
+    "revision": "3bafa5c84026fb73e3bd200a4f52d1e2",
+    "url": "/static/media/Cadiz-Regular.3bafa5c8.woff"
+  },
+  {
     "revision": "529584d4e49d329359827903a424bcbc",
     "url": "/static/media/Cadiz-Regular.529584d4.ttf"
+  },
+  {
+    "revision": "16302140c65fa3cbf36523197162566c",
+    "url": "/static/media/Cadiz-Regular.16302140.svg"
   },
   {
     "revision": "b934f3ca427262674b1d8ad58cf0b30f",
@@ -70,14 +78,6 @@ self.__precacheManifest = [
   {
     "revision": "387ff8c40e349ed32c180f67229f85d1",
     "url": "/static/media/Cadiz-Light.387ff8c4.svg"
-  },
-  {
-    "revision": "7a845c53a55bbcd6f81a7fbe59839892",
-    "url": "/static/media/Cadiz-Bold.7a845c53.eot"
-  },
-  {
-    "revision": "16302140c65fa3cbf36523197162566c",
-    "url": "/static/media/Cadiz-Regular.16302140.svg"
   },
   {
     "revision": "43e593fb638371e2df27a1da7504f091",
